@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for a chai delivery startup concept.
 
-**Live Demo:** [Yahan apna Vercel ka link dalna]
+**Live Demo:** https://chaitap-landing.vercel.app/
 
 ### Why I Chose React + Tailwind?
 
